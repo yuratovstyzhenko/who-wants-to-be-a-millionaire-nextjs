@@ -1,10 +1,7 @@
-import Image from 'next/image';
-import styles from './page.module.css';
+import React from 'react';
+import Game from '@/components/Game/Game';
+import gameConfig from '@/config/gameConfig.json';
 
 export default function Home() {
-  return (
-    <main>
-      <h1>Millionaire Game</h1>
-    </main>
-  );
+  return <Game initialQuestions={gameConfig.questions} />;
 }

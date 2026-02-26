@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How old your elder brother was 10 years before you was born, mate?",
+      "answers": [
+        { "id": "a", "text": "10 years", "isCorrect": false },
+        { "id": "b", "text": "11 years", "isCorrect": true },
+        { "id": "c", "text": "12 years", "isCorrect": false },
+        { "id": "d", "text": "14 years", "isCorrect": false }
+      ],
+      "prize": 500
+    },
+    {
+      "id": "q2",
+      "text": "Which of the following are programming languages?",
+      "answers": [
+        { "id": "a", "text": "Python", "isCorrect": true },
+        { "id": "b", "text": "Ruby", "isCorrect": true },
+        { "id": "c", "text": "Diamond", "isCorrect": false },
+        { "id": "d", "text": "Swift", "isCorrect": true }
+      ],
+      "prize": 1000
+    },
+    {
+      "id": "q3",
+      "text": "What does HTML stand for?",
+      "answers": [
+        { "id": "a", "text": "HyperText Markup Language", "isCorrect": true },
+        { "id": "b", "text": "HighText Machine Language", "isCorrect": false },
+        { "id": "c", "text": "Hyperlinks and Text Markup Language", "isCorrect": false },
+        { "id": "d", "text": "Hyper Tool Markup Language", "isCorrect": false }
+      ],
+      "prize": 2000
+    },
+    {
+      "id": "q4",
+      "text": "Which HTTP method is generally used to update an existing resource?",
+      "answers": [
+        { "id": "a", "text": "GET", "isCorrect": false },
+        { "id": "b", "text": "POST", "isCorrect": false },
+        { "id": "c", "text": "PUT", "isCorrect": true },
+        { "id": "d", "text": "DELETE", "isCorrect": false }
+      ],
+      "prize": 4000
+    },
+    {
+      "id": "q5",
+      "text": "Which of these values are valid HTTP status codes?",
+      "answers": [
+        { "id": "a", "text": "200", "isCorrect": true },
+        { "id": "b", "text": "201", "isCorrect": true },
+        { "id": "c", "text": "250", "isCorrect": false },
+        { "id": "d", "text": "404", "isCorrect": true }
+      ],
+      "prize": 8000
+    },
+    {
+      "id": "q6",
+      "text": "What is the main purpose of a CDN (Content Delivery Network)?",
+      "answers": [
+        { "id": "a", "text": "To speed up content delivery to users", "isCorrect": true },
+        { "id": "b", "text": "To store application logs", "isCorrect": false },
+        { "id": "c", "text": "To compile source code", "isCorrect": false },
+        { "id": "d", "text": "To manage user accounts", "isCorrect": false }
+      ],
+      "prize": 16000
+    },
+    {
+      "id": "q7",
+      "text": "Which of the following are NoSQL databases?",
+      "answers": [
+        { "id": "a", "text": "MongoDB", "isCorrect": true },
+        { "id": "b", "text": "PostgreSQL", "isCorrect": false },
+        { "id": "c", "text": "Redis", "isCorrect": true },
+        { "id": "d", "text": "MySQL", "isCorrect": false }
+      ],
+      "prize": 32000
+    },
+    {
+      "id": "q8",
+      "text": "What does CI in CI/CD stand for?",
+      "answers": [
+        { "id": "a", "text": "Continuous Integration", "isCorrect": true },
+        { "id": "b", "text": "Constant Improvement", "isCorrect": false },
+        { "id": "c", "text": "Code Inspection", "isCorrect": false },
+        { "id": "d", "text": "Continuous Isolation", "isCorrect": false }
+      ],
+      "prize": 64000
+    },
+    {
+      "id": "q9",
+      "text": "Which of these are valid CSS units?",
+      "answers": [
+        { "id": "a", "text": "px", "isCorrect": true },
+        { "id": "b", "text": "rem", "isCorrect": true },
+        { "id": "c", "text": "pt%", "isCorrect": false },
+        { "id": "d", "text": "vh", "isCorrect": true },
+        { "id": "e", "text": "foo", "isCorrect": false }
+      ],
+      "prize": 125000
+    },
+    {
+      "id": "q10",
+      "text": "What does DNS stand for?",
+      "answers": [
+        { "id": "a", "text": "Domain Name System", "isCorrect": true },
+        { "id": "b", "text": "Distributed Network Service", "isCorrect": false },
+        { "id": "c", "text": "Domain Number Service", "isCorrect": false },
+        { "id": "d", "text": "Data Name Server", "isCorrect": false }
+      ],
+      "prize": 250000
+    },
+    {
+      "id": "q11",
+      "text": "Which JavaScript values are falsy?",
+      "answers": [
+        { "id": "a", "text": "0", "isCorrect": true },
+        { "id": "b", "text": "'' (empty string)", "isCorrect": true },
+        { "id": "c", "text": "[]", "isCorrect": false },
+        { "id": "d", "text": "null", "isCorrect": true },
+        { "id": "e", "text": "undefined", "isCorrect": true },
+        { "id": "f", "text": "{}", "isCorrect": false }
+      ],
+      "prize": 500000
+    },
+    {
+      "id": "q12",
+      "text": "Which of the following are frontend frameworks or libraries?",
+      "answers": [
+        { "id": "a", "text": "React", "isCorrect": true },
+        { "id": "b", "text": "Vue", "isCorrect": true },
+        { "id": "c", "text": "Laravel", "isCorrect": false },
+        { "id": "d", "text": "Angular", "isCorrect": true }
+      ],
+      "prize": 1000000
+    }
+  ]
+}
